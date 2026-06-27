@@ -59,7 +59,7 @@ O objetivo desta página é:
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **laixgameplay**
+Desenvolvido por **Laís Oliveira**
 
 - GitHub: https://github.com/laixgameplay
 
