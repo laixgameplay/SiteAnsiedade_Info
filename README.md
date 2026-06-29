@@ -1,8 +1,5 @@
 # 📌 Página de Informações do Projeto - Site Ansiedade
 
-![Status](https://laixgameplay.github.io/SiteAnsiedade_Info/)
-![Tipo](https://img.shields.io/badge/projeto-documentação-blue)
-![GitHub Pages](https://img.shields.io/badge/hospedado-GitHub%20Pages-purple)
 
 ---
 
