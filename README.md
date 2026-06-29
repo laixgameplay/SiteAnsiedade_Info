@@ -17,7 +17,7 @@ A página funciona como um ponto central de acesso, reunindo links importantes e
 ## 🚀 Acesso à página
 
 👉 Página de informações:  
-https://SEU-USUARIO.github.io/SEU-REPOSITORIO/
+https://laixgameplay.github.io/SiteAnsiedade_Info/
 
 👉 Projeto principal:  
 https://laixgameplay.github.io/SiteAnsiedade/
